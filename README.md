@@ -1,6 +1,6 @@
-# Superchat
+# Superchat ⚛️🔥💬
 
-Chat app built with ReactJS and Firebase based on the tutorial of 🔥 [Fireship](https://www.youtube.com/watch?v=zQyrwxMPm88) 🔥
+Chat app built with ReactJS and Firebase based on the tutorial of ✨ [Fireship](https://www.youtube.com/watch?v=zQyrwxMPm88) ✨
 
 ## Getting Started with Create React App
 
